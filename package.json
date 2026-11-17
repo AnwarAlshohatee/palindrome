@@ -1,0 +1,13 @@
+
+{
+  "name": "palindrome-checker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A server-side palindrome checker built with Node.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
